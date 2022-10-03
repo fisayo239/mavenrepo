@@ -30,11 +30,7 @@
             <id>deployment</id>
             <name>Internal Releases</name>
             <url>http://34.207.110.241:8081/repository/maven-snapshots/</url>
-        </repository>
-        <snapshotRepository>
-            <id>deployment</id>
-            <name>Internal Snapshot Releases</name>
-            <url>http://34.207.110.241:8081/repository/maven-snapshots/</url>
+               <snapshotRepository>
         </snapshotRepository>
     </distributionManagement>
   <dependencies>
